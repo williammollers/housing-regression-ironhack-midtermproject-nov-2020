@@ -6,78 +6,53 @@ This project is a part of the Data Analytics Bootcamp Oct 2020 - Jan 2021 at [IR
 #### -- Project Status:  [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to predict the price of houses (which was provided in the .csv) from the remainder of the variables that pertained to housing sales that occurred in the Seattle area in 2014-2015.  As a secondary objective we were tasked with seeing if properties over $650k had particular reasons, as opposed to cheaper properties. 
+This was my first individual project completed during the bootcamp and was designed to test my knowledhge in MySQL, Python (and associated libraries, e.g. NUMPY, SCIKITLEARN, PANDAS, etc) and to be an introduction to Tableau. 
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+For the exact specifications of the various parts of the project, please see the .md files contained in the respective directories and the .csv that was used is also provided in this repository. 
 
 ### Methods Used
-* Inferential Statistics
+* Linear Regression & other forms of regressions analysis
 * Machine Learning
 * Data Visualization
-* Predictive Modeling
-* etc.
+* Kanban 
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
+* MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* SkLearn
+* Numpy
+* Tableau
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+The data used in this project was provided by the IRONHACK team and in general it was a fairly clean dataset. 
+
+In the beginning I was tasked with exploring the data in MySql and then to carry out further EDA, cleaning and wrangling within my Jupyter Notebook using python and it's associated libraries. Visualisation was completed in Tableau. 
+
+There were many challenges in the project, including the following:
+1. First time doing something like this. Therefore I spent a lot of time on structure and hope that the project is easy to read. 
+2. Tableau was something that we had barely touched before this. Therefore were some visualisations far from ideal, but I am sure this will improve by the next commit. 
+3. The project occurred during the 3rd week of Germany's second lockdown. This made exchanging opinion with colleagues very difficult and it was truly an individal project. 
 
 ## Needs of this project
 
-- frontend developers
 - data exploration/descriptive statistics
 - data processing/cleaning
 - statistical modeling
 - writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
+2. Raw Data is being kept [here]https://github.com/williammollers/housing-regression-ironhack-midtermproject-nov-2020/tree/master/PYTHON_REGRESSION_ANALYSIS) within this repo.  
+3. Data processing/transformation scripts are being kept [here](https://github.com/williammollers/housing-regression-ironhack-midtermproject-nov-2020)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+All in all we had to deliver a MySql query book, a jupyter notebook, a Tableau dashboard, this readme file and a presentation (to be added)
 
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
-
-REFERENCES:
-https://github.com/sfbrigade/data-science-wg/edit/master/dswg_project_resources/Project-README-template.md
+*  Feel free to get in touch with me as you wish!
+hi@williammollers.com
+https://www.linkedin.com/in/williammollers/
