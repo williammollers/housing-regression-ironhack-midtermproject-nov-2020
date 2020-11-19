@@ -1,9 +1,9 @@
-*Instructions: Click on the raw button in the upper right hand corner of this box.  Copy and paste the template into the README.md document on your github.  Fill in the titles, information and links where prompted! Feel free to stray a bit to suit your project but try to stick to the format as closely as possible for consistency across DSWG projects.*
 
-# Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
 
-#### -- Project Status: [Active, On-Hold, Completed]
+# IRONHACK MIDWAY PROJECT: Case Study Regression (HOUSE SALES IN SEATTLE)
+This project is a part of the Data Analytics Bootcamp Oct 2020 - Jan 2021 at [IRON HACK, Berlin, Germany ](https://www.ironhack.com/en/data-analytics). 
+
+#### -- Project Status:  [Completed]
 
 ## Project Intro/Objective
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
