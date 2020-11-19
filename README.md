@@ -54,5 +54,5 @@ All in all we had to deliver a MySql query book, a jupyter notebook, a Tableau d
 
 ## Contact
 *  Feel free to get in touch with me as you wish!
-hi@williammollers.com
-https://www.linkedin.com/in/williammollers/
+* hi@williammollers.com
+* https://www.linkedin.com/in/williammollers/
